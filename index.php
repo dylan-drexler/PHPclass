@@ -4,7 +4,8 @@
     <title>Dylan Drexer Home Page-PHP</title>
     <link rel="stylesheet" href=css/base.css>
 </head>
-
+<body>
+<div id="wrapper">
     <div id="intro">
         <header>
             <h1>Welcome To My Course Home Page</h1>
@@ -19,6 +20,7 @@
             </article>
         </section>
     </div>
-
+</div>
+</body>
 
 </html>
