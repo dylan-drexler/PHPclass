@@ -20,35 +20,6 @@
             </article>
         </section>
     </div>
-</div>
-<div id="table">
-    <table>
-        <tr>
-            <th>Sunday</th>
-            <th>Monday</th>
-            <th>Tuesday</th>
-            <th>Wensday</th>
-            <th>Thursday</th>
-            <th>Friday</th>
-            <th>Saturday</th>
-        </tr>
-        <tr>
-            <th><p>12:00pm-4:00pm:Work</p></th>
-            <th><p>6:30am-12:00pm:Work</p></th>
-            <th>
-                <p>6:30am-12:00pm:Work</p><br>
-                <p>12:00am-4:20pm:School</p>
-            </th>
-            <th>
-                <p>6:30am-12:00pm:Work</p><br>
-                <p>5:30pm-9:30pm:School</p>
-            </th>
-            <th><p>12:00pm-3:20pm:school</p></th>
-            <th></th>
-            <th></th>
-        </tr>
-    </table>
-</div>
 <div id="page-content">
     <nav>
         <p><a href=>Assigment 1</a></p>
@@ -61,5 +32,6 @@
 <footer>
     <p>Posted by:Dylan Drexler</p>
 </footer>
+</div>
 </body>
 </html>
