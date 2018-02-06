@@ -1,0 +1,28 @@
+html{
+    background-color: red;
+}
+#wrapper{
+    padding-bottom: 20px;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 20px;
+    border-bottom-style: solid;
+    background-color: white;
+    text-align: center;
+}
+p{
+    font-size: 18px;
+}
+table, td, th {
+    border: 1px solid black;
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    text-align: center;
+}
